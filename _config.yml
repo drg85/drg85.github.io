@@ -1,7 +1,3 @@
+theme: jekyll-theme-cayman
 title: David Robert Grimes
 description: Scientist, broadcaster, and author
-url: "https://drg85.github.io"
-baseurl: "/drg85-site.github.io"  # important for project sites
-remote_theme: volny/creative-theme-jekyll
-plugins:
-  - jekyll-remote-theme
