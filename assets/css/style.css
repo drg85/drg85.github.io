@@ -1,0 +1,40 @@
+/* Core typography */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  max-width: 850px;
+  margin: auto;
+  padding: 1rem;
+  color: #222;
+}
+
+/* Header & navigation */
+header {
+  margin-bottom: 2rem;
+}
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #0055aa;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+main section {
+  margin-bottom: 1.5rem;
+}
+
+/* Footer */
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #555;
+}
