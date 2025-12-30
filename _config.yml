@@ -1,0 +1,7 @@
+title: David Robert Grimes
+description: Scientist, broadcaster, and author
+url: "https://drg85.github.io"
+baseurl: "" # leave empty for user site
+remote_theme: volny/creative-theme-jekyll
+plugins:
+  - jekyll-remote-theme
